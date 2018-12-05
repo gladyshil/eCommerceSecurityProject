@@ -1,6 +1,0 @@
-{
-    "/api": {
-        "target": "https://computersecurityproject.herokuapp.com",
-        "secure": true
-    }
-}
